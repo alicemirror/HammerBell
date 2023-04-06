@@ -1,2 +1,2 @@
 # HammerBell
-Arduino Controlled Handpan Drum
+## Arduino Controlled Handpan Drum
